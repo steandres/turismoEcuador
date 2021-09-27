@@ -1,0 +1,16 @@
+.mapadiv{
+	width:90%;
+	margin: auto;
+}
+.mapadiv path{
+	fill:#F1C40F;
+	stroke:#D35400;
+	stroke-width:1px; 
+}
+.mapadiv : hover{
+	fill: #800000;
+}
+.mapadiv .colorInsular:hover{
+	fill:#10a162;
+	stroke:#10a162;
+}

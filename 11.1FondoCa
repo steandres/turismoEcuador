@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(11.2FondoCañar.jfif);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}

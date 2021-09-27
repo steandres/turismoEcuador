@@ -1,0 +1,29 @@
+
+
+table{
+width: 100%;
+/*ancho*/
+background-color: white;
+/*color fondo*/
+border-collapse:collapse;
+
+}
+
+th,td{
+padding:20px;
+}
+
+thead{
+background-color:#203540;
+border-bottom: solid 5px #0F362D:
+color: white;
+}
+
+tr:nth-child(even){
+	background-color: #ddd;
+}
+
+tr:hover td{
+	background-color:#369681;
+	color: white;
+}

@@ -1,0 +1,33 @@
+
+.mapadiv{
+	width:90%;
+	margin: auto;
+}
+.mapadiv path{
+	fill:#F1C40F;
+	stroke:#D35400;
+	stroke-width:1px; 
+}
+.mapadiv : hover{
+	fill: #800000;
+}
+
+.mapadiv .colorSierra:hover{
+	fill:#F10F0F;
+	stroke:#F10F0F;
+}
+
+.mapadiv .colorCosta:hover{
+	fill:#0FF1D9;
+	stroke:#0FF1D9;
+}
+
+.mapadiv .colorOriente:hover{
+	fill:#F10F6B;
+	stroke:#F10F6B;
+}
+
+.mapadiv .colorInsular:hover{
+	fill:#10a162;
+	stroke:#10a162;
+}
